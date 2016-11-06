@@ -10,10 +10,10 @@
   "contributors": [],
   "dependencies": {
     "async": "^1.5.2",
+    "debug": "^2.2.0",
     "iconv-lite": "^0.4.13",
     "moment": "^2.13.0",
-    "utils-merge": "^1.0.0",
-    "winston": "^2.2.0"
+    "utils-merge": "^1.0.0"
   },
   "description": "Simplified SMPP implementation",
   "devDependencies": {
